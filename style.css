@@ -1,0 +1,13 @@
+body {
+    background: #E8EBF3;
+    height: 100vh;
+    font: 400 16px 'Varela Round', sans-serif;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.list-div button{ 
+
+    font: 400 13px 'Varela Round', sans-serif;
+}
